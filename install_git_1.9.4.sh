@@ -16,6 +16,7 @@
   echo "export PATH=$PATH:/usr/local/git/bin" >> /etc/bashrc
   source /etc/bashrc
   # cleaning
+              cd /usr/src/
               rm -rf git-1.9.4
               rm -rf git-1.9.4.tar.gz
        # git version
