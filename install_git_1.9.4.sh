@@ -15,7 +15,7 @@
   make prefix=/usr/local/git install
   echo "export PATH=$PATH:/usr/local/git/bin" >> /etc/bashrc
   source /etc/bashrc
-  # clean
+  # cleaning
               rm -rf git-1.9.4
               rm -rf git-1.9.4.tar.gz
        # git version
