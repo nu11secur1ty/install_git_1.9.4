@@ -4,7 +4,7 @@
 # copyright by@nu11secur1ty  #
 ##############################
  #need packages
- yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel gcc perl-ExtUtils-MakeMaker
+ yum install -y curl-devel expat-devel gettext-devel openssl-devel zlib-devel gcc perl-ExtUtils-MakeMaker
  #go to src
  cd /usr/src
  wget https://www.kernel.org/pub/software/scm/git/git-1.9.4.tar.gz
