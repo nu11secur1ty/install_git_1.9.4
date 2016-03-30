@@ -22,7 +22,9 @@
 	      git --version
 		  sleep 1
 		  echo "well done"
-		  exit 0;
+		  echo "After installation you have to reboot the system"
+		  sleep 3
+   exit 0;
 		  
   
   
